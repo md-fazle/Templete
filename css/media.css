@@ -1,0 +1,64 @@
+ /* 2nd section */
+ .container{
+    width: 1920px;
+    height: 920px;
+   background-color: #D9D9D9;
+   top:171px;
+  
+}
+span{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+color: #27AE60;
+}
+h1{
+    font-style: normal;
+    font-size: 56px;
+    line-height: 60px;
+    color: #292929;
+    left: 314.96px;
+     top: 278px;
+     font-weight: bold;
+}
+p{
+    color: black;
+}
+.half-width {
+    width: 50%;
+    margin-left:150px;
+    margin-top: 190px;
+}
+.half-width2 img{
+    width: 90%;
+    margin-top: 110px;
+    z-index: 9999;
+}
+.section{
+    display: flex;
+}
+  .btn{
+   display: flex;
+}
+.img{
+    height: 45px;
+    margin-left: 10px;
+}
+.donate{
+    height: 160px;
+    width: 210px;
+    background-color: white;
+    margin-left: 62%;
+    border: 1px solid wheat;
+    margin-bottom: 710px;
+    font-weight: 600;
+    
+    
+}
+.inside{
+    margin-left: 20px;
+    color: #27AE60;
+    font-weight: bold;
+}
