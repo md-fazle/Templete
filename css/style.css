@@ -23,3 +23,21 @@
  .item1{
     color: white;
  }
+ /* cards control */
+.cards{
+    margin-top: 187px;
+    margin-left: 273px;
+    
+}
+.one{
+    background-color: antiquewhite;
+    color: black;
+}
+.tow{
+    background-color: #27AE60;
+    color: white;
+}
+.three{
+    background-color: #EC8E11;
+    color: white;
+}
