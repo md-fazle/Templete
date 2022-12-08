@@ -1,35 +1,43 @@
-body {
-    font-family: "Quicksand", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    background-color: #fff;
-    height: 200vh;
-    position: relative; }
- .site-navbar-top {
-     position: absolute;
-     left: 0%;
-     right: 0%;
-     width: 1907px;
-     height: 40px;
-     background: #27AE60;
-     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
- 
-    }
-    .col-6 {
-        flex: 0 0 auto;
-        width: 50%;
-        margin-top: 5px;
-    }
- .d-none {
-    padding-left: 10px;
+ body {
 
+     position: relative;
+    
+     background: #FFFFFF;
+ }
+
+ /* Top bar 1/2 csss */
+ 
+ .secound_topbar {
+  
+    height: 58px;
+    left: 13.54%;
+    right: 50.41%;
 }
  
-    *, *::before, *::after {
-        box-sizing: border-box;
-        color: rgb(255, 255, 255);
-    }
-    .right {
-        padding-right: 10px;
-    }
-    .grd{
-        padding-left: 5px;
-    }
+ .this_is {
+     padding-left: 485px;
+ }
+ .item1 .item2{
+    color: white;
+ }
+ .item1{
+    color: white;
+ }
+ /* cards control */
+.cards{
+    margin-top: 187px;
+    margin-left: 273px;
+    
+}
+.one{
+    background-color: antiquewhite;
+    color: black;
+}
+.tow{
+    background-color: #27AE60;
+    color: white;
+}
+.three{
+    background-color: #EC8E11;
+    color: white;
+}
