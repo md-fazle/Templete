@@ -41,3 +41,24 @@
     background-color: #EC8E11;
     color: white;
 }
+.Third_section{
+   
+    position: absolute;
+    height: 500px;
+    width: 1000px;
+    
+    margin-left: -98px;
+    margin-top: 60px;
+
+}
+.image_control{
+   
+    height: 500px;
+    width: 500px;
+    float: left;
+}
+.contant_control{
+    height: 500px;
+    width: 500px;
+    float: right;
+}
