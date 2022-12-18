@@ -962,6 +962,31 @@ button {
     height: 500px;
     width: 100%;
     background-color: black;
-    margin-top: 870px;
+    margin-top: 1613px;
 }
- 
+.main_card{
+    position:absolute;
+    height:700px;
+    width: 100%;
+    margin-top: 844px;
+    
+}
+.top1{
+    height: 180px;
+    width: 100%;
+    text-align: center;
+  
+}
+.line{
+    height: 5px;
+    width: 154px;
+    background-color: orange;
+    margin-top: 35px;
+    margin-left: 480px;
+    border-radius: 33px;
+}
+.cards_contant{
+    height: 500px;
+    width: 100%;
+
+}
